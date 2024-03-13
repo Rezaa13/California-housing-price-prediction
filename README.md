@@ -1,1 +1,4 @@
 # California-housing-price-prediction
+Machine Learning Project in Python: Predicting California Housing Prices.  This system is designed to forecast housing prices in California using machine learning models. Dive into the data, explore the factors influencing housing prices, and see how well I can predict the next market trends. 
+It is a simple prediction system. Built from "California Housing Prices" data.  The dataset requires rudimentary data cleaning. It had 6 different attribute.  I preprocessed the data and prepared it for the models. I devided the data into 3 parts. Train, test and validation. 
+Than, I trained the data with mean squared error, linear regression, k nearest neighbor, k neighbors regression and random forest models. Ultimately, test data showed random forest model can provide the best output for this dataset. 
